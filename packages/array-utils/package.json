@@ -1,6 +1,6 @@
 {
   "name": "@zohair-abbasi/array-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility library for array operations in JavaScript/TypeScript",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
