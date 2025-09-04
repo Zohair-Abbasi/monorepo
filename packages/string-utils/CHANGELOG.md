@@ -1,5 +1,12 @@
 # @zohair-abbasi/string-utils
 
+## 1.0.3
+
+### Patch Changes
+
+- ab5ca5d: automated publishing using changeset
+- 08786ea: publishing packages using changesets
+
 ## 1.0.2
 
 ### Patch Changes
