@@ -1,5 +1,13 @@
 # web
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [ab5ca5d]
+- Updated dependencies [08786ea]
+  - @zohair-abbasi/string-utils@1.0.3
+
 ## 0.1.1
 
 ### Patch Changes
