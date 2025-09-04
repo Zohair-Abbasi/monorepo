@@ -1,6 +1,7 @@
 {
   "name": "@zohair-abbasi/string-utils",
-  "version": "0.1.0",
+  "version": "1.0.1",
+  "description": "A lightweight TypeScript utility library for common string operations, including capitalization, truncation, and slug generation. Perfect for web and Node.js projects to simplify string manipulation tasks.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

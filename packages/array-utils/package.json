@@ -1,0 +1,20 @@
+{
+  "name": "@zohair-abbasi/array-utils",
+  "version": "1.0.0",
+  "description": "A utility library for array operations in JavaScript/TypeScript",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --dts",
+    "test": "vitest"
+  },
+  "keywords": [
+    "array",
+    "utils",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Zohair Abbasi",
+  "license": "ISC"
+}

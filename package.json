@@ -9,7 +9,10 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.29.6",
+    "@types/node": "^22.15.3",
     "prettier": "^3.6.2",
+    "tsup": "^8.5.0",
     "turbo": "^2.5.6",
     "typescript": "5.9.2"
   },
