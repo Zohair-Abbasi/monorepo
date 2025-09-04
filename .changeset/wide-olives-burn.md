@@ -1,6 +1,0 @@
----
-"@zohair-abbasi/array-utils": patch
-"@zohair-abbasi/string-utils": patch
----
-
-my first time publishing using changeset
